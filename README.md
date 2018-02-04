@@ -1,4 +1,4 @@
-# LA Hacks Submission: Trumpd
+# LA Hacks Submission: "Trumpd"
 ## Inspiration
 Most recently with Trump's uncorroborated claim that president Obama personally ordered to wiretap the trump towers during the 2016 election cycle, a lot of media attention has been brought to if we can believe what the president says. Unlike most other public figures President Trump is very vocal on Twitter and has received a lot of media attention for sending outrageous tweets at seemingly minuscule things for the purpose of inflating his ego. In a time when social media influences the way in which the people receive information about the world it is imperative to be able to determine facts from fakes news. 
 ## What it does
